@@ -18,3 +18,4 @@ Write a script that duplicates the last line of the file iacta
 21-reverse
 22-users_and_homes
 100-empty_casks
+101-gifs 
