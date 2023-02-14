@@ -10,3 +10,10 @@ Write a script that duplicates the last line of the file iacta
 13-unique
 14-findthatword
 15-countthatword
+16-whatsnext
+17-hidethisword
+18-letteronly
+19-AZ
+20-hiago
+21-reverse
+22-users_and_homes
